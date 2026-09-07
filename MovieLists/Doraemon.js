@@ -6,7 +6,7 @@ export default [
       "Doraemon: Nobita and the Steel Troops: The New Age",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 62,
     videoUrl:
       "https://drive.google.com/file/d/1LeLvdNurMAwANalm1HWchhS1TotCh0v7/preview",
@@ -134,7 +134,7 @@ export default [
       "Doraemon: Nobita's Parallel Journey to the West",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://drive.google.com/file/d/1AkSI1NF0mZXTW5plSNfse6PFVgqXHdGv/preview",
@@ -249,7 +249,7 @@ export default [
       "Doraemon The Movie: Nobita and the Tin Labyrinth",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://drive.google.com/file/d/1oG9uswDZP8skgm8YayHt7BMf06R-Gtl1/preview",
@@ -394,7 +394,7 @@ export default [
       "Doraemon the Movie: The Fantastic Three Musketeers",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://drive.google.com/file/d/16IKZg7IOcN10bXVx_fwQhRh7GOKL_7WT/preview",
@@ -531,7 +531,7 @@ export default [
       "Doraemon: Nobita's South Sea Adventure",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://drive.google.com/file/d/1v6J1jH9gofCZr6XNO27mYaZ4x-y8qGid/preview",
@@ -683,7 +683,7 @@ export default [
       "Doraemon the Movie: Nobita's Legendary King of The Sun",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://drive.google.com/file/d/1QZ6n0MLXDlrdsXKt7W4YQ1Sd0Rwz7Mgg/preview",
@@ -794,7 +794,7 @@ export default [
     id: "d-stand-by-me",
     title: ["Doraemon: Stand by Me", "Stand by Me Doraemon"],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 100,
     videoUrl:
       "https://drive.google.com/file/d/1voTSIzx3n3Uj55_Mi1hGoWO4fZ63vWVR/preview",
@@ -911,7 +911,7 @@ export default [
       "Doraemon: Nobita's Treasure Island",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://drive.google.com/file/d/1sIkwTU1mbWXcU55LSQe-LL53wABtGU95/preview",
@@ -1058,7 +1058,7 @@ export default [
       "Doraemon: Nobita's Little Star Wars",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://drive.google.com/file/d/1l6V8mnu4jJOnKVyW1S2srgQAItgp-8r6/preview",
@@ -1181,7 +1181,7 @@ export default [
     id: "d-stand-by-me-2",
     title: ["Doraemon: Stand by Me 2", "Doraemon The Movie: Stand by Me 2"],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 12,
     videoUrl:
       "https://drive.google.com/file/d/1bcya92lyFgvRkdM00Vf8SGGsHMOuQ19J/preview",
@@ -1355,7 +1355,7 @@ export default [
       "Doraemon: Nobita's New Dinosaur",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://www.facebook.com/plugins/video.php?height=313&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1097842376263648%2F&show_text=false&width=560&t=0",
@@ -1496,7 +1496,7 @@ export default [
       "Doraemon: Nobita's Chronicle of the Moon Exploration",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://drive.google.com/file/d/17yRUXq88CLDqFL7LbHrOFx6McmJBwdBD/preview",
@@ -2671,7 +2671,7 @@ export default [
       "Doraemon: Nobita's Little Star Wars 2021",
     ],
     cartoonId: "doraemon",
-    gradient: "DORAEMON_GRADIENT",
+    gradient: DORAEMON_GRADIENT,
     progress: 0,
     videoUrl:
       "https://drive.google.com/file/d/1gmxfr20QF50CvNNWx_brE1K7MIonm7c0/preview",
