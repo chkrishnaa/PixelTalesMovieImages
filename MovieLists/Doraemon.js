@@ -98,7 +98,7 @@ export default [
         bio: "The ruthless supreme commander of the Megatopia Iron Battalion. He leads the mechanical army to Earth with the singular goal of enslaving the human race, serving as the ultimate threat that Nobita and his friends must stand against in the final showdown.",
       },
     ],
-    gallery: "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene[---22---].png",
+    gallery: "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene[---38---].png",
     modern: true,
     isPrime: true,
     isRecommended: true,
