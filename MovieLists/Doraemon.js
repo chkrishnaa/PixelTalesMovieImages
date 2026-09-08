@@ -98,30 +98,7 @@ export default [
         bio: "The ruthless supreme commander of the Megatopia Iron Battalion. He leads the mechanical army to Earth with the singular goal of enslaving the human race, serving as the ultimate threat that Nobita and his friends must stand against in the final showdown.",
       },
     ],
-    gallery: [
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene1.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene2.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene3.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene4.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene5.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene6.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene7.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene8.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene9.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene10.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene11.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene12.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene13.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene14.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene15.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene16.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene17.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene18.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene19.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene20.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene21.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene22.png",
-    ],
+    gallery: "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene[---22---].png",
     modern: true,
     isPrime: true,
     isRecommended: true,
@@ -3004,5 +2981,187 @@ export default [
       "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Doraemon/NobitaAndTheSteelTroops1986.jpg",
     ],
     comments: [],
+  },
+
+
+  {
+    id: "d-mini-dora-sos",
+    title: [
+      "Dorami The Movie: Mini Dora SOS!!",
+      "Dorami-chan: Mini-Dora SOS!!",
+      "Mini-Dora SOS!!",
+    ],
+    cartoonId: "doraemon",
+    gradient: DORAEMON_GRADIENT,
+    progress: 0,
+    videoUrl: "",
+    thumbnail:
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Doraemon/MiniDoraSOS.jpg",
+    rating: 4.3,
+    year: 1989,
+    releaseDate: "1989-03-11",
+    duration: 40,
+    language: "Hindi Dubbed",
+    quality: "1080p",
+    studio: "Shin-Ei Animation",
+    favorited: false,
+    director: "Makoto Moriwaki",
+    country: "Japan",
+    genres: ["Animation", "Comedy", "Sci-Fi", "Family", "Short"],
+    description:
+      "Due to a delivery mistake in the future, a miniature red Doraemon robot ends up with Nobisuke, the mischievous young son of Nobita and Shizuka. Nobisuke teams up with Suneki and Jaichibi to explore Tokyo using Mini-Dora's chaotic pocket gadgets. Dorami travels to the timeline to track down the missing robot before the kids cause an uproar across the futuristic metropolis.",
+    characters: [
+      {
+        name: "Dorami",
+        role: "Main Character",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MiniDoraSOS/Dorami.jpg",
+        bio: "Doraemon's capable younger sister who rushes to the future timeline to retrieve the misplaced Mini-Dora before the kids accidentally trigger widespread citywide destruction.",
+      },
+      {
+        name: "Mini-Dora (Red)",
+        role: "Key Character / Miniature Robot",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MiniDoraSOS/MiniDoraRed.jpg",
+        bio: "A palm-sized red cat robot equipped with tiny functioning versions of 22nd-century gadgets. He speaks solely in mini-sounds and gladly fulfills Nobisuke's mischievous requests.",
+      },
+      {
+        name: "Nobisuke (Son)",
+        role: "Key Character / Nobita's Son",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MiniDoraSOS/NobisukeSon.jpg",
+        bio: "The energetic, rebellious young son of Nobita and Shizuka. Unlike his lazy father, he is athletic and bold, eagerly using Mini-Dora's tools to outsmart neighborhood rivals.",
+      },
+      {
+        name: "Suneki",
+        role: "Supporting Character / Suneo's Son",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MiniDoraSOS/Suneki.jpg",
+        bio: "Suneo's wealthy son who boasts about his high-tech future toys but tags along with Nobisuke on their chaotic city run.",
+      },
+      {
+        name: "Jaichibi",
+        role: "Supporting Character / Gian's Son",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MiniDoraSOS/Jaichibi.jpg",
+        bio: "Gian's gentle-hearted son who inherits his father's large build but possesses a much milder and kinder personality.",
+      },
+      {
+        name: "Adult Nobita",
+        role: "Supporting Character",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MainCharacters/Nobita.jpg",
+        bio: "Nobita as an adult salaryman living in modern Tokyo, working hard to provide for his family while trying to keep his spirited son in check.",
+      },
+      {
+        name: "Adult Shizuka",
+        role: "Supporting Character",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MainCharacters/Shizuka.jpg",
+        bio: "Shizuka as a mature mother managing the household and keeping Nobisuke disciplined when his antics get out of hand.",
+      },
+    ],
+    gallery: [
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/MiniDoraSOS/Scene1.png",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/MiniDoraSOS/Scene2.png",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/MiniDoraSOS/Scene3.png",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/MiniDoraSOS/Scene4.png",
+    ],
+    modern: false,
+    isPrime: false,
+    isRecommended: true,
+  },
+  {
+    id: "d-new-nobita-and-the-castle-of-the-undersea-devil",
+    title: [
+      "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+      "Doraemon: Nobita and the Castle of the Undersea Devil Remake",
+    ],
+    cartoonId: "doraemon",
+    gradient: DORAEMON_GRADIENT,
+    progress: 0,
+    videoUrl: "",
+    thumbnail:
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Doraemon/NewCastleOfTheUnderseaDevil.jpg",
+    rating: 4.5,
+    year: 2026,
+    releaseDate: "",
+    duration: 105,
+    language: "Hindi Dubbed",
+    quality: "1080p",
+    studio: "Shin-Ei Animation",
+    favorited: false,
+    director: "",
+    country: "Japan",
+    genres: ["Animation", "Adventure", "Sci-Fi", "Family", "Fantasy", "Action"],
+    description:
+      "A modern, reimagined adventure taking the gang back to the darkest trenches of the Pacific Ocean. Doraemon, Nobita, and their companions travel beneath the waves to uncover the ancient civilization of Mu. As long-dormant battle computers in the sunken city of Atlantis reactivate, the group and their sentient underwater buggy companion must breach high-tech oceanic defenses to prevent an apocalyptic retaliation sequence from devastating Earth.",
+    characters: [
+      {
+        name: "Doraemon",
+        role: "Main Character",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MainCharacters/Doraemon.jpg",
+        bio: "Equipped with updated 22nd-century underwater survival equipment, Doraemon organizes tactical breaches against robotic patrols guarding the undersea abyss.",
+      },
+      {
+        name: "Nobita",
+        role: "Main Character",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MainCharacters/Nobita.jpg",
+        bio: "Nobita's deep empathy bridges the gap between surface humans and the undersea people of Mu, motivating the team to protect both worlds from automated destruction.",
+      },
+      {
+        name: "Shizuka",
+        role: "Supporting Character",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MainCharacters/Shizuka.jpg",
+        bio: "Shizuka forms a heartfelt bond with Buggy, teaching the mechanical vehicle the value of friendship and loyalty during their journey through the ocean abyss.",
+      },
+      {
+        name: "Gian",
+        role: "Supporting Character",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MainCharacters/Gian.jpg",
+        bio: "Gian serves as the frontline brawler against robotic security units, taking charge of heavy defensive gadgets during deep-sea skirmishes.",
+      },
+      {
+        name: "Suneo",
+        role: "Supporting Character",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/MainCharacters/Suneo.jpg",
+        bio: "Suneo applies his technical intuition to assist in navigating underwater mountain ranges and analyzing defensive shield barriers.",
+      },
+      {
+        name: "Buggy",
+        role: "Key Ally / Sentient Vehicle",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewCastleOfTheUnderseaDevil/Buggy.jpg",
+        bio: "The updated sentient AI underwater vehicle whose sharp personality softens through his friendship with Shizuka, leading to a pivotal role in the final confrontation.",
+      },
+      {
+        name: "Eru",
+        role: "Key Ally / Undersea Commander",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewCastleOfTheUnderseaDevil/Eru.jpg",
+        bio: "A dedicated guardian of the kingdom of Mu who collaborates with Doraemon and his friends to stop Atlantis's weapons from destroying the surface.",
+      },
+      {
+        name: "Poseidon",
+        role: "Primary Antagonist / Rogue AI",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewCastleOfTheUnderseaDevil/Poseidon.jpg",
+        bio: "A formidable automated supercomputer entrenched in Atlantis programmed for absolute retaliation, threatening total planetary devastation.",
+      },
+    ],
+    gallery: [
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NewCastleOfTheUnderseaDevil/Scene1.png",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NewCastleOfTheUnderseaDevil/Scene2.png",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NewCastleOfTheUnderseaDevil/Scene3.png",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NewCastleOfTheUnderseaDevil/Scene4.png",
+    ],
+    modern: true,
+    isPrime: true,
+    isRecommended: true,
   },
 ];
