@@ -110,7 +110,7 @@ export default [
     progress: 0,
     videoUrl: "https://drive.google.com/file/d/10osIk4miw4E-CBHnapMJaHZsWibfzn5g/preview",
     thumbnail:
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Shinchan/ShinchanAurBuriBurikingdomKaKhazanaKaKhazana.jpg",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Shinchan/ShinchanAurBuriBuriKingdomKaKhazana.jpg",
     rating: 4.4,
     year: 1994,
     releaseDate: "1994-04-23",
@@ -150,40 +150,40 @@ export default [
         name: "Prince Sunnokeshi",
         role: "Key Ally / Prince of Buri Buri Kingdom",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBurikingdomKaKhazana/PrinceSunnokeshi.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBuriKingdomKaKhazana/PrinceSunnokeshi.jpg",
         bio: "The polite, royal look-alike of Shinchan who is kidnapped by the White Snake Gang. Despite his regal upbringing, he quickly bonds with Shinchan and learns to laugh freely.",
       },
       {
         name: "Lulu Lu Shsie",
         role: "Key Ally / Royal Bodyguard",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBurikingdomKaKhazana/LuluLuShsie.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBuriKingdomKaKhazana/LuluLuShsie.jpg",
         bio: "A master martial artist and royal palace guard tasked with protecting Prince Sunnokeshi. She teams up with the Noharas, taking down armed mercenaries with hand-to-hand combat.",
       },
       {
         name: "Count Anaconda",
         role: "Primary Antagonist / Syndicate Boss",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBurikingdomKaKhazana/CountAnaconda.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBuriKingdomKaKhazana/CountAnaconda.jpg",
         bio: "The sinister leader of the White Snake Gang who seeks to unseal the Buri Buri Djinn to gain god-like magical power and rule the world.",
       },
       {
         name: "Mr. Hub",
         role: "Antagonist / Lead Enforcer",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBurikingdomKaKhazana/MrHub.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBuriKingdomKaKhazana/MrHub.jpg",
         bio: "Anaconda's muscle-bound chief lieutenant, skilled in deadly combat arts. He serves as Lulu's primary sparring rival throughout the jungle pursuit.",
       },
       {
         name: "Buri Buri Djinn (Majin)",
         role: "Magical Entity / Spirit",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBurikingdomKaKhazana/BuriBuriDjinn.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/ShinchanAurBuriBuriKingdomKaKhazana/BuriBuriDjinn.jpg",
         bio: "The giant mystical pig deity sealed inside the golden temple. He awakens to grant a single wish to whoever summons him with the sacred twin key dance.",
       },
     ],
     gallery:
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Shinchan/ShinchanAurBuriBurikingdomKaKhazana/Scene[---0---].png",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Shinchan/ShinchanAurBuriBuriKingdomKaKhazana/Scene[---0---].png",
     modern: false,
     isPrime: true,
     isRecommended: true,

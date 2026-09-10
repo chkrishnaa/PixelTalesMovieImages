@@ -2975,7 +2975,7 @@ export default [
   {
     id: "d-mini-dora-sos",
     title: [
-      "Dorami The Movie: Mini Dora SOS!!",
+      "Doremi The Movie: Mini Dora SOS!!",
       "Dorami-chan: Mini-Dora SOS!!",
       "Mini-Dora SOS!!",
     ],
