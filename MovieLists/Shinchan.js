@@ -110,7 +110,7 @@ export default [
     progress: 0,
     videoUrl: "https://drive.google.com/file/d/10osIk4miw4E-CBHnapMJaHZsWibfzn5g/preview",
     thumbnail:
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Shinchan/ShinchanAurShinchanAurBuriBurikingdomKaKhazanaKaKhazana.jpg",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Shinchan/ShinchanAurBuriBurikingdomKaKhazanaKaKhazana.jpg",
     rating: 4.4,
     year: 1994,
     releaseDate: "1994-04-23",
@@ -189,19 +189,19 @@ export default [
     isRecommended: true,
   },
   {
-    id: "s-unkokusai-ka-shadyantra",
+    id: "s-unkokusai-ka-shadyantra", // Strictly generated from the top Hindi title
     title: [
-      "Shinchan: Unkokusai's Ambition",
-      "Shinchan The Movie: Unkokusai Ka Shadyantra",
-      "Crayon Shin-chan: Unkokusai's Ambition",
-      "Shinchan: The Secret of the Golden Sphere",
+      "Shinchan Movie: Unkokusai Ka Shadyantra", // Hindi Title on Top
+      "Crayon Shin-chan: Unkokusai's Ambition", // Official English Title
+      "Shinchan Movie: Mr. Smelly's Ambition", // Sony YAY Alternative Hindi Title
+      "Shinchan: The Secret of the Golden Sphere" // Alternative Title
     ],
     cartoonId: "shinchan",
     gradient: SHINCHAN_GRADIENT,
     progress: 0,
-    videoUrl: "",
+    videoUrl: "https://drive.google.com/file/d/1mXbMms9TWsR-EiP98HPhiAmENfkCQT1y/preview",
     thumbnail:
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Shinchan/UnkokusaisAmbition.jpg",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Shinchan/UnkokusaiKaShadyantra.jpg",
     rating: 4.3,
     year: 1995,
     releaseDate: "1995-04-15",
@@ -241,33 +241,33 @@ export default [
         name: "Shiro / Ring Snow Storm",
         role: "Key Ally / Time Patrol Officer",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/UnkokusaisAmbition/RingSnowStorm.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/UnkokusaiKaShadyantra/RingSnowStorm.jpg",
         bio: "A Time Patrol agent from the 30th century who temporarily merges consciousness with Shiro to speak with the Noharas and guide them into the past.",
       },
       {
         name: "Fubuki Maru",
         role: "Key Ally / Young Swordsman",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/UnkokusaisAmbition/FubukiMaru.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/UnkokusaiKaShadyantra/FubukiMaru.jpg",
         bio: "A skilled, noble samurai on a quest of vengeance to avenge his fallen clan and rescue his kidnapped sister from Unkokusai's castle.",
       },
       {
         name: "Unkokusai (Lord Hikaru)",
         role: "Primary Antagonist / Time Criminal",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/UnkokusaisAmbition/Unkokusai.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/UnkokusaiKaShadyantra/Unkokusai.jpg",
         bio: "A dangerous fugitive from the future who uses time displacement technology and sorcery to conquer historical Japan and rebuild the modern world in his own image.",
       },
       {
         name: "Matatabi",
         role: "Antagonist / Elite Ninja",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/UnkokusaisAmbition/Matatabi.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Shinchan/UnkokusaiKaShadyantra/Matatabi.jpg",
         bio: "Unkokusai's lethal mercenary swordsman who ambushes the Nohara group across treacherous mountain passes.",
       },
     ],
     gallery:
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Shinchan/UnkokusaisAmbition/Scene[---0---].png",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Shinchan/UnkokusaiKaShadyantra/Scene[---0---].png",
     modern: false,
     isPrime: true,
     isRecommended: true,
