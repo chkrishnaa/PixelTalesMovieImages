@@ -3070,7 +3070,7 @@ export default [
     progress: 0,
     videoUrl: "",
     thumbnail:
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Doraemon/NewCastleOfTheUnderseaDevil.jpg",
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Doraemon/NewNobitaAndTheCastleOfTheUnderseaDevil.jpg",
     rating: 4.5,
     year: 2026,
     releaseDate: "",
