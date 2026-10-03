@@ -3150,7 +3150,7 @@ export default [
         name: "Triline",
         role: "Supporting Ally / Elder of Mu",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewCastleOfTheUnderseaDevil/Triline.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewNobitaAndTheCastleOfTheUnderseaDevil/Triline.jpg",
         bio: "An elder resident of the Mu Federation wearing a spiral shell hat who secretly assists Doraemon and his companions during their attempt to return to the surface.",
       },
       {
