@@ -98,7 +98,8 @@ export default [
         bio: "The ruthless supreme commander of the Megatopia Iron Battalion. He leads the mechanical army to Earth with the singular goal of enslaving the human race, serving as the ultimate threat that Nobita and his friends must stand against in the final showdown.",
       },
     ],
-    gallery: "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene[---22---].png",
+    gallery:
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaAndTheSteelTroops/Scene[---22---].png",
     modern: true,
     isPrime: true,
     isRecommended: true,
@@ -202,7 +203,8 @@ export default [
         bio: "The powerful demon queen and wife of the Bull Demon King. Wielding a giant fan that summons dangerous hurricane winds, she serves as a lethal obstacle for Nobita and his friends.",
       },
     ],
-    gallery: "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaBanaSuperhero/Scene[---11---].png",
+    gallery:
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NobitaBanaSuperhero/Scene[---11---].png",
     modern: false,
     isPrime: true,
     isRecommended: true,
@@ -1552,11 +1554,12 @@ export default [
         bio: "The adorable, hard-working moon rabbit creatures created on the far side of the moon using Doraemon's badge gadget. During the climax, a massive army of Moonbits unites to construct heavy defense machinery and overpower Diabolo's forces.",
       },
       {
-  "name": "Nobit",
-  "role": "Key Ally / Moonbit Inventor",
-  "photo": "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NobitaChalaChandPe/Nobit.jpg",
-  "bio": "A unique Moonbit created in the image of Nobita, complete with glasses and a yellow top. Despite being clumsy and initially failing at his inventions, his determination helps create key defense tools that turn the tide of battle."
-},
+        name: "Nobit",
+        role: "Key Ally / Moonbit Inventor",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NobitaChalaChandPe/Nobit.jpg",
+        bio: "A unique Moonbit created in the image of Nobita, complete with glasses and a yellow top. Despite being clumsy and initially failing at his inventions, his determination helps create key defense tools that turn the tide of battle.",
+      },
       {
         name: "Godart",
         role: "Antagonist / Key Ally",
@@ -2184,7 +2187,8 @@ export default [
     cartoonId: "doraemon",
     gradient: DORAEMON_GRADIENT,
     progress: 62,
-    videoUrl: "https://drive.google.com/file/d/1fePnZw9O-NsiTCjPfFsxKP-Y_lTIk6Mk/preview",
+    videoUrl:
+      "https://drive.google.com/file/d/1fePnZw9O-NsiTCjPfFsxKP-Y_lTIk6Mk/preview",
     thumbnail:
       "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Doraemon/NobitaAurPisukeRemake.jpg",
     rating: 4.5,
@@ -2601,7 +2605,8 @@ export default [
     cartoonId: "doraemon",
     gradient: DORAEMON_GRADIENT,
     progress: 0,
-    videoUrl: "https://drive.google.com/file/d/1-4FIdEo-Ncc1Ozb6zNM_qASSxpUOPQ_2/preview",
+    videoUrl:
+      "https://drive.google.com/file/d/1-4FIdEo-Ncc1Ozb6zNM_qASSxpUOPQ_2/preview",
     // https://drive.google.com/file/d/1cHAMWQAKNh4F2XxMKCSG1pPtnLI_5zrl/preview
     thumbnail:
       "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Doraemon/NobitaAndTheBirthOfJapanRemake.jpg",
@@ -2971,7 +2976,6 @@ export default [
     comments: [],
   },
 
-
   {
     id: "d-mini-dora-sos",
     title: [
@@ -3066,20 +3070,21 @@ export default [
       "Doraemon: Nobita and the Castle of the Undersea Devil Remake",
     ],
     cartoonId: "doraemon",
-    gradient: DORAEMON_GRADIENT,
+    gradient: "DORAEMON_GRADIENT",
     progress: 0,
-    videoUrl: "",
+    videoUrl:
+      "https://drive.google.com/file/d/1zbjxthMSlZzZa63zeZXkYoKTGwADGXmx/preview",
     thumbnail:
       "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/MovieThumbnails/Doraemon/NewNobitaAndTheCastleOfTheUnderseaDevil.jpg",
     rating: 4.5,
     year: 2026,
-    releaseDate: "",
+    releaseDate: "February 27, 2026",
     duration: 105,
     language: "Hindi Dubbed",
     quality: "1080p",
     studio: "Shin-Ei Animation",
     favorited: false,
-    director: "",
+    director: "Tetsuo Yajima",
     country: "Japan",
     genres: ["Animation", "Adventure", "Sci-Fi", "Family", "Fantasy", "Action"],
     description:
@@ -3124,30 +3129,47 @@ export default [
         name: "Buggy",
         role: "Key Ally / Sentient Vehicle",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewCastleOfTheUnderseaDevil/Buggy.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewNobitaAndTheCastleOfTheUnderseaDevil/Buggy.jpg",
         bio: "The updated sentient AI underwater vehicle whose sharp personality softens through his friendship with Shizuka, leading to a pivotal role in the final confrontation.",
       },
       {
         name: "Eru",
         role: "Key Ally / Undersea Commander",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewCastleOfTheUnderseaDevil/Eru.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewNobitaAndTheCastleOfTheUnderseaDevil/Eru.jpg",
         bio: "A dedicated guardian of the kingdom of Mu who collaborates with Doraemon and his friends to stop Atlantis's weapons from destroying the surface.",
+      },
+      {
+        name: "Prime Minister of Mu",
+        role: "Supporting Ally / Ruler",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewNobitaAndTheCastleOfTheUnderseaDevil/PrimeMinisterMu.jpg",
+        bio: "The high leader of the underwater Federation of Mu who initially detains the surface dwellers before recognizing their integrity and sanctioning their alliance.",
+      },
+      {
+        name: "Triline",
+        role: "Supporting Ally / Elder of Mu",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewCastleOfTheUnderseaDevil/Triline.jpg",
+        bio: "An elder resident of the Mu Federation wearing a spiral shell hat who secretly assists Doraemon and his companions during their attempt to return to the surface.",
       },
       {
         name: "Poseidon",
         role: "Primary Antagonist / Rogue AI",
         photo:
-          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewCastleOfTheUnderseaDevil/Poseidon.jpg",
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewNobitaAndTheCastleOfTheUnderseaDevil/Poseidon.jpg",
         bio: "A formidable automated supercomputer entrenched in Atlantis programmed for absolute retaliation, threatening total planetary devastation.",
       },
+      {
+        name: "Ironfish Drone Fleet",
+        role: "Antagonist Units / Security Automatons",
+        photo:
+          "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Characters/Doraemon/NewNobitaAndTheCastleOfTheUnderseaDevil/IronFish.jpg",
+        bio: "Autonomous lethal battle drones dispatched by Poseidon's core network to patrol the Mariana and Bermuda sectors and eliminate all intruders.",
+      },
     ],
-    gallery: [
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NewCastleOfTheUnderseaDevil/Scene1.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NewCastleOfTheUnderseaDevil/Scene2.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NewCastleOfTheUnderseaDevil/Scene3.png",
-      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NewCastleOfTheUnderseaDevil/Scene4.png",
-    ],
+    gallery:
+      "https://raw.githubusercontent.com/chkrishnaa/PixelTalesMovieImages/main/Scenes/Doraemon/NewNobitaAndTheCastleOfTheUnderseaDevil/Scene[---16---].png",
     modern: true,
     isPrime: true,
     isRecommended: true,
